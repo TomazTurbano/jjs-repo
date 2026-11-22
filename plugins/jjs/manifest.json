@@ -1,0 +1,20 @@
+{
+	"format": 1,
+	"id": "ibnaltayyib.jjs",
+	"name": "JJS",
+	"description": "/jjs inicio:0 fim:5 idioma:pt-br sufixo:\" !\" maiusculas:sim — envia a contagem por extenso, uma mensagem por vez.",
+	"author": "ibnaltayyib <1568691122522296420>",
+	"version": "1.0.0",
+	"icon": "ChatIcon",
+	"dependencies": {
+		"valenced.api": {
+			"version": ">=1 <2"
+		},
+		"discord": {
+			"version": "*"
+		}
+	},
+	"dist": {
+		"script": "index.js"
+	}
+}
